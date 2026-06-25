@@ -3,27 +3,27 @@
 		"name": "Great General",
 		"unitType": "Civilian",
 		"uniques": [
-      "May Paradrop to [{your} {City center}] tiles up to [25] tiles away <in [City center] tiles>",
-      "Empire enters a [8]-turn Golden Age <by consuming this unit>",
-      "[+15]% Strength bonus for [{Military} {Land} {Air}] units within [2] tiles",
-      "Can instantly construct a [Citadel] improvement <by consuming this unit>",
+			"May Paradrop to [{your} {City center}] tiles up to [25] tiles away <in [City center] tiles>",
+			"Empire enters a [8]-turn Golden Age <by consuming this unit>",
+			"[+15]% Strength bonus for [{Military} {Land}, {Air}] units within [2] tiles",
+			"Can instantly construct a [Citadel] improvement <by consuming this unit>",
 			"Can be earned through combat <for [Land] units>",
-      "Is part of Great Person group [General]",
-      "[This Unit] gets a name from the [General] group",
+			"Is part of Great Person group [General]",
+			"[This Unit] gets a name from the [General] group",
 			"Great Person - [War]", "Unbuildable", "Uncapturable"],
 		"movement": 2
-  },
-  {
-    "name": "Great Admiral",
+	},
+	{
+		"name": "Great Admiral",
 		"unitType": "Civilian Water",
 		"uniques": [
-      "May Paradrop to [{your} {Coastal} {City center}] tiles up to [25] tiles away <in [City center] tiles>",
-      "Empire enters a [8]-turn Golden Age <by consuming this unit>",
-      "[+15]% Strength bonus for [{Military} {Water} {Air}] units within [2] tiles",
-      "Can be earned through combat <for [Water] units>",
-      "Is part of Great Person group [Admiral]",
-      "[This Unit] gets a name from the [Admiral] group",
-      "Great Person - [War]", "Unbuildable", "Uncapturable"],
+			"May Paradrop to [{your} {Coastal} {City center}] tiles up to [25] tiles away <in [City center] tiles>",
+			"Empire enters a [8]-turn Golden Age <by consuming this unit>",
+			"[+15]% Strength bonus for [{Military} {Water}, {Air}] units within [2] tiles",
+			"Can be earned through combat <for [Water] units>",
+			"Is part of Great Person group [Admiral]",
+			"[This Unit] gets a name from the [Admiral] group",
+			"Great Person - [War]", "Unbuildable", "Uncapturable"],
 		"movement": 4
   }
 ]
