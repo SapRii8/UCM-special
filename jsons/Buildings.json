@@ -1,10 +1,180 @@
 [
   {
-		"name": "Military Academy Special",
-		"hurryCostModifier": 0,
+	  "name": "Military Academy Special",
+	  "hurryCostModifier": 0,
+	  "maintenance": 1,
+	  "requiredBuilding": "Palace",
+	  "requiredTech": "Military Science",
+	  "uniques": ["New [Military] units start with [4200] XP [in this city]", "Destroyed when the city is captured"]
+  },
+  {
+	  "name": "Stele Special",
+	  "culture": 2,
+	  "faith": 2,
+	  "cost": 40,
+	  "hurryCostModifier": 40,
+	  "maintenance": 1,
+	  "requiredBuilding": "Palace",
+	  "uniques": ["Destroyed when the city is captured"]
+  },
+  {
+	  "name": "Pyramid Special",
+	  "faith": 2,
+	  "science": 2,
+	  "cost": 40,
+	  "maintenance": 1,
+	  "requiredBuilding": "Palace",
+	  "requiredTech": "Pottery",
+	  "uniques": ["Only available <when religion is enabled>"]
+  },
+  {
+	  "name": "Paper Maker Special",
+	  "gold": 2,
+	  "hurryCostModifier": 25,
+	  "requiredBuilding": "Palace",
+	  "requiredTech": "Writing",
+	  "uniques": ["[+1 Science] per [2] population [in this city]"]
+  },
+  {
+    "name": "Floating Gardens Special",
+		"food": 2,
+		"production": 1,
+		"uniques": ["[+2 Food] from [Lakes] tiles [in this city]", "Must be next to [Fresh water]"],
+		"hurryCostModifier": 25,
 		"maintenance": 1,
-		"requiredBuilding": "Palace",
-		"uniques": ["New [Military] units start with [4200] XP [in this city]", "Destroyed when the city is captured"],
-		"requiredTech": "Military Science"
-	}
+	  "requiredBuilding": "Palace",
+		"percentStatBonus": {"food": 15},
+		"requiredTech": "The Wheel"
+  },
+  {
+    "name": "Walls of Babylon Special",
+		"cost": 65,
+		"cityStrength": 6,
+		"cityHealth": 100,
+		"hurryCostModifier": 25,
+	  "requiredBuilding": "Palace",
+		"requiredTech": "Masonry",
+		"uniques": ["Destroyed when the city is captured"]
+  },
+  {
+    "name": "Krepost Special",
+		"hurryCostModifier": 25,
+		"maintenance": 1,
+	  "requiredBuilding": "Palace",
+		"uniques": ["[-25]% Culture cost of natural border growth [in this city]","[-25]% Gold cost of acquiring tiles [in this city]",
+			"New [Military] units start with [15] XP [in this city]", "Destroyed when the city is captured"],
+		"requiredTech": "Bronze Working"
+  },
+  {
+    "name": "Burial Tomb Special",
+		"maintenance": 0,
+	  "requiredBuilding": "Palace",
+		"uniques": ["[+100]% Gold given to enemy if city is captured <in this city>"],
+		"faith": 2,
+		"happiness": 2,
+		"requiredBuilding": "Shrine",
+		"hurryCostModifier": 25,
+		"requiredTech": "Philosophy"
+  },
+  {
+    "name": "Mud Pyramid Mosque Special",
+		"maintenance": 0,
+	  "requiredBuilding": "Palace",
+		"hurryCostModifier": 25,
+		"culture": 2,
+		"faith": 2,
+		"requiredBuilding": "Shrine",
+		"requiredTech": "Philosophy"
+  },
+  {
+    "name": "Bazaar Special",
+		"gold": 2,
+		"specialistSlots": {"Merchant": 1},
+		"hurryCostModifier": 25,
+	  "requiredBuilding": "Palace",
+		"percentStatBonus": {"gold": 25},
+		"uniques": ["Provides 1 extra copy of each improved luxury resource near this City",
+			"[+2 Gold] from [Oil] tiles [in this city]", "[+2 Gold] from [Oasis] tiles [in this city]"],
+		"requiredTech": "Currency"
+  },
+  {
+    "name": "Longhouse Special",
+		"cost": 100,
+		"maintenance": 2,
+	  "requiredBuilding": "Palace",
+		"production": 2,
+		"specialistSlots": {"Engineer": 1},
+		"hurryCostModifier": 25,
+		"uniques": ["[+1 Production] from [Forest] tiles [in this city]"],
+		"requiredTech": "Metal Casting"
+  },
+  {
+    "name": "Wat Special",
+		"maintenance": 2,
+	  "requiredBuilding": "Palace",
+		"hurryCostModifier": 15,
+		"percentStatBonus": {"science": 33},
+		"specialistSlots": {"Scientist": 2},
+		"culture": 3,
+		"requiredBuilding": "Library",
+		"uniques": ["[+2 Science] from [Jungle] tiles [in this city]"],
+		"requiredTech": "Education"
+  },
+  {
+    "name": "Mughal Fort Special",
+		"cost": 150,
+		"cityStrength": 7,
+		"cityHealth": 25,
+		"culture": 2,
+		"hurryCostModifier": 25,
+	  "requiredBuilding": "Palace",
+		"requiredBuilding": "Walls",
+		"uniques": ["[+1 Gold] [in this city] <after discovering [Flight]>", "Destroyed when the city is captured"],
+		"requiredTech": "Chivalry"
+  },
+  {
+    "name": "Ceilidh Hall Special",
+		"culture": 4,
+		"happiness": 3,
+		"specialistSlots": {"Artist": 1},
+		"hurryCostModifier": 10,
+		"requiredBuilding": "Amphitheater",
+		"maintenance": 2,
+	  "requiredBuilding": "Palace",
+		"uniques": ["Destroyed when the city is captured"],
+    "requiredTech": "Acoustics"
+  },
+  {
+    "name": "Satrap's Court Special",
+		"gold": 2,
+		"specialistSlots": {"Merchant": 1},
+		"happiness": 2,
+		"hurryCostModifier": 15,
+	  "requiredBuilding": "Palace",
+		"percentStatBonus": {"gold": 25},
+		"requiredBuilding": "Market",
+		"requiredTech": "Banking"
+  },
+  {
+	  "name": "Hanse Special",
+		"gold": 2,
+		"specialistSlots": {"Merchant": 1},
+		"hurryCostModifier": 15,
+	  "requiredBuilding": "Palace",
+		"percentStatBonus": {"gold": 25},
+		"uniques": ["+5% Production for every Trade Route with a City-State in the empire"],
+		"requiredBuilding": "Market",
+		"requiredTech": "Banking",
+  },
+  {
+	  "name": "Coffee House Special",
+	  "production": 2,
+	  "percentStatBonus": {"production": 5},
+	  "specialistSlots": {"Engineer": 1},
+	  "hurryCostModifier": 25,
+	  "maintenance": 2,
+	  "requiredBuilding": "Palace",
+	  "requiredTech": "Economics",
+	  "uniques": ["[+25]% Great Person generation [in this city]"]
+  }
 ]
