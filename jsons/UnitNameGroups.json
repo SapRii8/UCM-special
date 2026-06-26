@@ -29,6 +29,7 @@
   },
   {
     "name": "Prophet",
-    "unitNames": ["Right F.", "False R."]
-  }
+    "unitNames": ["Right", "False"]
+  },
+  {}
 ]
