@@ -1,0 +1,34 @@
+[
+  {
+    "name": "General",
+    "unitNames": ["General Red", "General Blue"]
+  },
+  {
+    "name": "Admiral",
+    "unitNames": ["Admiral Abyss", "Admiral Void"]
+  },
+  {
+    "name": "Artist",
+    "unitNames": ["Sky", "Cyan"]
+  },
+  {
+    "name": "Engineer",
+    "unitNames": ["Moonshine", "Perfecto"]
+  {,
+  {
+    "name": "Merchant",
+    "unitNames": ["Lucky", "Rich"]
+  },
+  {
+    "name": "Scientist",
+    "unitNames": ["Error", "Zero"]
+  },
+  {
+    "name": "Khan",
+    "unitNames": ["Sun", "Moon"]
+  },
+  {
+    "name": "Prophet",
+    "unitNames": ["Right", "False"]
+  }
+]
