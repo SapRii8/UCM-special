@@ -18,6 +18,7 @@
 	  "hurryCostModifier": 40,
 	  "maintenance": 1,
 	  "uniques": [
+		  "Only available <when religion is enabled>",
 		  "Only available <in cities with a [Palace]>",
 		  "Destroyed when the city is captured"]
   },
@@ -29,6 +30,7 @@
 	  "maintenance": 1,
 	  "requiredTech": "Pottery",
 	  "uniques": [
+		  "Only available <when religion is enabled>",
 		  "Only available <in cities with a [Palace]>",
 		  "Destroyed when the city is captured"]
   },
@@ -89,6 +91,7 @@
 	  "requiredTech": "Philosophy",
 	  "uniques": [
 		  "[+100]% Gold given to enemy if city is captured <in this city>",
+		  "Only available <when religion is enabled>",
 		  "Only available <in cities with a [Palace]>",
 		  "Destroyed when the city is captured"]
   },
@@ -101,6 +104,7 @@
 	  "requiredBuilding": "Shrine",
 	  "requiredTech": "Philosophy",
 	  "uniques": [
+		  "Only available <when religion is enabled>",
 		  "Only available <in cities with a [Palace]>",
 		  "Destroyed when the city is captured"]
   },
