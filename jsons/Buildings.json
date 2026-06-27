@@ -198,7 +198,7 @@
 	  "requiredBuilding": "Market",
 	  "requiredTech": "Banking",
 	  "uniques": [
-		  "+5% Production for every Trade Route with a City-State in the empire",
+		  "[+5%] Production for every Trade Route with a City-State in the empire",
 		  "Only available <in cities with a [Palace]>",
 		  "Destroyed when the city is captured"]
   },
