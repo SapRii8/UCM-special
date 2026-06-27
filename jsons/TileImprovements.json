@@ -5,7 +5,7 @@
 		"culture": 1,
 		"turnsToBuild": 4,
 		"uniques": [
-			"Cannot be built to improve a resource",
+			"Cannot be built on [resource] tiles",
 			"Can only be built on [Coastal] tiles", 
 			"[+1 Culture] for each adjacent [Moai]", "[+1 Gold] <after discovering [Flight]>", 
 			"Pillaging this improvement yields approximately [+10 Gold]"],
@@ -18,7 +18,7 @@
 		"food": 1,
 		"turnsToBuild": 7,
 		"uniques": [
-			"Cannot be built on [Bonus resource] tiles",
+			"Cannot be built on [resource] tiles",
 			"[+1 Food] for each adjacent [Mountain]",
 			"[+1 Food] from [Fresh water] tiles <after discovering [Civil Service]>",
 			"[+1 Food] from [non-fresh water] tiles <after discovering [Fertilizer]>",
