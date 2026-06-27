@@ -1,12 +1,12 @@
 [
-    {
-        "name": "Hovering",
+	{
+        "name": "FlyHover",
         "uniques": [
-			      "Can pass through impassable tiles",
-                  "May travel on Water tiles without embarking",
-			      "Eliminates combat penalty for attacking across a coast",
-			      "Eliminates combat penalty for attacking over a river",
-			      "[-33]% Strength <when fighting in [Ocean] tiles>"],
+			"Can pass through impassable tiles",
+			"May travel on Water tiles without embarking",
+			"Eliminates combat penalty for attacking over a river",
+			"Eliminates combat penalty for attacking across a coast",
+			"[-33]% Strength <when fighting in [Ocean] tiles>"],
         "unitTypes": ["Helicopter"]
     }
 ]
