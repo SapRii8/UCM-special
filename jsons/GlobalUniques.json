@@ -1,6 +1,8 @@
 {
-	"name": "Super Golden Age",
+	"name": "Special Golden Age",
 	"uniques": ["[+150]% Golden Age length"],
-	"name": "Helicopters Can Fly",
-    "uniques": ["[Helicopter] units gain the [Hovering] promotion"]
+	"name": "Special Missiles Supplies",
+	"uniques": ["[1] Unit Supply <for every [[Missile] Units]>"],
+	"name": "Helicopters Fly and Hover",
+    "uniques": ["[Helicopter] units gain the [FlyHover] promotion"]
 }
