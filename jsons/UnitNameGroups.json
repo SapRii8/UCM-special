@@ -9,26 +9,26 @@
   },
   {
     "name": "Artist",
-    "unitNames": ["Sky", "Cyan"]
+    "unitNames": ["Sky Blue", "Lapis Lazurite", " Cyan Ultramarine"]
   },
   {
     "name": "Engineer",
-    "unitNames": ["Moonshine", "Perfecto"]
+    "unitNames": ["Mr.Moonshine", "Absolute Perfecto"]
   },
   {
     "name": "Merchant",
-    "unitNames": ["Lucky", "Rich"]
+    "unitNames": ["R.Lucky", "R.Price", "R.Rich"]
   },
   {
     "name": "Scientist",
-    "unitNames": ["Error", "Zero"]
+    "unitNames": ["Err0r", "Zer0"]
   },
   {
     "name": "Khan",
-    "unitNames": ["Sun", "Moon"]
+    "unitNames": ["M.Sunrise", "M.Sunset", "S.Moonrise", "S.Moonset"]
   },
   {
     "name": "Prophet",
-    "unitNames": ["Right", "False"]
+    "unitNames": ["F.Right", "R.False"]
   },
 ]
