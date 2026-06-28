@@ -1,7 +1,7 @@
 {
-	"name": "SPLE Golden Age",
+	"name": "Special Golden Age",
 	"uniques": ["[+150]% Golden Age length", "Empire enters golden age <before turn number [1]>"],
-	"name": "Missiles Supplies",
+	"name": "Special Missiles Supplies",
 	"uniques": ["[1] Unit Supply <for every [[Missile] Units]>"],
 	"name": "Helicopters Fly and Hover",
     "uniques": ["[Helicopter] units gain the [FlyHover] promotion"]
