@@ -112,7 +112,7 @@
 	  "name": "Bazaar Special",
 	  "gold": 2,
 	  "percentStatBonus": {"gold": 25},
-	  #"specialistSlots": {"Merchant": 1},#
+	  //"specialistSlots": {"Merchant": 1},
 	  "hurryCostModifier": 25,
 	  "requiredTech": "Currency",
 	  "uniques": [
@@ -125,7 +125,7 @@
   {
 	  "name": "Longhouse Special",
 	  "production": 2,
-	  #"specialistSlots": {"Engineer": 1},#
+	  //"specialistSlots": {"Engineer": 1},
 	  "cost": 100,
 	  "hurryCostModifier": 25,
 	  "maintenance": 2,
@@ -139,7 +139,7 @@
 	  "name": "Wat Special",
 	  "culture": 3,
 	  "percentStatBonus": {"science": 33},
-	  #"specialistSlots": {"Scientist": 2},#
+	  //"specialistSlots": {"Scientist": 2},
 	  "hurryCostModifier": 15,
 	  "maintenance": 2,
 	  "requiredBuilding": "Library",
@@ -167,7 +167,7 @@
 	  "name": "Ceilidh Hall Special",
 	  "happiness": 3,
 	  "culture": 4,
-	  #"specialistSlots": {"Artist": 1},#
+	  //"specialistSlots": {"Artist": 1},
 	  "hurryCostModifier": 10,
 	  "maintenance": 2,
 	  "requiredBuilding": "Amphitheater",
@@ -181,7 +181,7 @@
 	  "happiness": 2,
 	  "gold": 2,
 	  "percentStatBonus": {"gold": 25},
-	  #"specialistSlots": {"Merchant": 1},#
+	  //"specialistSlots": {"Merchant": 1},
 	  "hurryCostModifier": 15,
 	  "requiredBuilding": "Market",
 	  "requiredTech": "Banking",
@@ -193,7 +193,7 @@
 	  "name": "Hanse Special",
 	  "gold": 2,
 	  "percentStatBonus": {"gold": 25},
-	  #"specialistSlots": {"Merchant": 1},#
+	  //"specialistSlots": {"Merchant": 1},
 	  "hurryCostModifier": 15,
 	  "requiredBuilding": "Market",
 	  "requiredTech": "Banking",
@@ -208,7 +208,7 @@
 	  "name": "Coffee House Special",
 	  "production": 2,
 	  "percentStatBonus": {"production": 5},
-	  #"specialistSlots": {"Engineer": 1},#
+	  //"specialistSlots": {"Engineer": 1},
 	  "hurryCostModifier": 25,
 	  "maintenance": 2,
 	  "requiredTech": "Economics",
