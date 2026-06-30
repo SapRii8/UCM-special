@@ -193,7 +193,7 @@
 	  "name": "Hanse Special",
 	  "gold": 2,
 	  "percentStatBonus": {"gold": 25},
-	  //"specialistSlots": {"Merchant": 1},
+	  ##"specialistSlots": {"Merchant": 1},##
 	  "hurryCostModifier": 15,
 	  "requiredBuilding": "Market",
 	  "requiredTech": "Banking",
@@ -208,7 +208,7 @@
 	  "name": "Coffee House Special",
 	  "production": 2,
 	  "percentStatBonus": {"production": 5},
-	  //"specialistSlots": {"Engineer": 1},
+	  ##"specialistSlots": {"Engineer": 1},##
 	  "hurryCostModifier": 25,
 	  "maintenance": 2,
 	  "requiredTech": "Economics",
