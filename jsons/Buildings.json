@@ -6,18 +6,7 @@
 	  "requiredBuilding": "Palace",
 	  "requiredTech": "Military Science",
 	  "uniques": [
-		  "May buy [Special 15'000XP] buildings for [15000] [Gold] [in this city]",
 		  "New [Military] units start with [150] XP [in this city]",
-		  "Only available <in cities with a [Palace]>",
-		  "Destroyed when the city is captured"]
-  },
-  {
-	  "name": "Special 15'000XP",
-	  "hurryCostModifier": 0,
-	  "maintenance": 0,
-	  "requiredBuilding": "Military Academy Special",
-	  "uniques": ["Unbuildable",
-		  "New [Military] units start with [15000] XP [in this city]",
 		  "Only available <in cities with a [Palace]>",
 		  "Destroyed when the city is captured"]
   },
