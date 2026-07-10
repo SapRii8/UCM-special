@@ -12,6 +12,14 @@
     "unitNames": ["Sky Blue", "Lapis Lazurite", " Cyan Ultramarine"]
   },
   {
+    "name": "Musician",
+    "unitNames": ["Sky Blue", "Lapis Lazurite", " Cyan Ultramarine"]
+  },
+  {
+    "name": "Writer",
+    "unitNames": ["Richard Castle", "Sky Blue", "Lapis Lazurite", " Cyan Ultramarine"]
+  },
+  {
     "name": "Engineer",
     "unitNames": ["Mr.Moonshine", "Absolute Perfecto"]
   },
