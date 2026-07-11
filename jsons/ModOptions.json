@@ -2,6 +2,5 @@
   "constants": 
 	{
 		"maxXPfromBarbarians": 1500
-	},
-	"uniques": ["Enable religion"]
+	}
 }
