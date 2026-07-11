@@ -12,30 +12,6 @@
 		"movement": 4
 	},
 	{
-		"name": "Great Musician",
-		"unitType": "Civilian",
-		"uniques": [
-			"May Paradrop to [{your} {City center}] tiles up to [25] tiles away <in [City center] tiles> <upon discovering [Flight] technology>",
-            "Empire enters a [8]-turn Golden Age <by consuming this unit>",
-            "Can instantly construct a [Landmark] improvement <by consuming this unit>",
-            "Is part of Great Person group [Musician]",
-            "[This Unit] gets a name from the [Musician] group",
-            "Great Person - [Culture]", "Unbuildable", "Uncapturable"],
-		"movement": 4
-	},
-	{
-		"name": "Great Writer",
-		"unitType": "Civilian",
-		"uniques": [
-			"May Paradrop to [{your} {City center}] tiles up to [25] tiles away <in [City center] tiles> <upon discovering [Flight] technology>",
-            "Empire enters a [8]-turn Golden Age <by consuming this unit>",
-            "Can instantly construct a [Landmark] improvement <by consuming this unit>",
-            "Is part of Great Person group [Writer]",
-            "[This Unit] gets a name from the [Writer] group",
-            "Great Person - [Culture]", "Unbuildable", "Uncapturable"],
-		"movement": 4
-	},
-	{
 		"name": "Great Engineer",
 		"unitType": "Civilian",
 		"uniques": [
