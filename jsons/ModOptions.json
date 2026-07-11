@@ -1,6 +1,7 @@
 {
   "constants": 
 	{
-		"maxXPfromBarbarians": 1500 
-	}
+		"maxXPfromBarbarians": 1500
+	},
+	"uniques": ["Ensable religion"]
 }
