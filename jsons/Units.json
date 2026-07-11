@@ -3,7 +3,7 @@
 		"name": "Great Artist",
 		"unitType": "Civilian",
 		"uniques": [
-			"May Paradrop to [{your} {City center}] tiles up to [25] tiles away <in [City center] tiles> <after discovering [Flight] technology>",
+			"May Paradrop to [{your} {City center}] tiles up to [25] tiles away <in [City center] tiles> <after discovering [Flight]>",
             "Empire enters a [8]-turn Golden Age <by consuming this unit>",
             "Can instantly construct a [Landmark] improvement <by consuming this unit>",
             "Is part of Great Person group [Artist]",
@@ -15,7 +15,7 @@
 		"name": "Great Engineer",
 		"unitType": "Civilian",
 		"uniques": [
-			"May Paradrop to [{your} {City center}] tiles up to [25] tiles away <in [City center] tiles> <after discovering [Flight] technology>",
+			"May Paradrop to [{your} {City center}] tiles up to [25] tiles away <in [City center] tiles> <after discovering [Flight]>",
 			"Can speed up construction of a building",
             "Can instantly construct a [Manufactory] improvement <by consuming this unit>",
             "Is part of Great Person group [Engineer]",
@@ -27,7 +27,7 @@
 		"name": "Great Merchant",
 		"unitType": "Civilian",
 		"uniques": [
-			"May Paradrop to [{your} {City center}] tiles up to [25] tiles away <in [City center] tiles> <after discovering [Flight] technology>",
+			"May Paradrop to [{your} {City center}] tiles up to [25] tiles away <in [City center] tiles> <after discovering [Flight]>",
 			"Can undertake a trade mission with City-State, giving a large sum of gold and [30] Influence",
             "Can instantly construct a [Customs house] improvement <by consuming this unit>",
             "Is part of Great Person group [Merchant]",
@@ -39,7 +39,7 @@
 		"name": "Great Scientist",
 		"unitType": "Civilian",
 		"uniques": [
-			"May Paradrop to [{your} {City center}] tiles up to [25] tiles away <in [City center] tiles> <after discovering [Flight] technology>",
+			"May Paradrop to [{your} {City center}] tiles up to [25] tiles away <in [City center] tiles> <after discovering [Flight]>",
             "Can hurry technology research",
             "Can instantly construct a [Academy] improvement <by consuming this unit>",
             "Is part of Great Person group [Scientist]",
@@ -51,7 +51,7 @@
 		"name": "Great Prophet",
 		"unitType": "Civilian",
 		"uniques": [
-			"May Paradrop to [{your} {City center}] tiles up to [25] tiles away <in [City center] tiles> <after discovering [Flight] technology>",
+			"May Paradrop to [{your} {City center}] tiles up to [25] tiles away <in [City center] tiles> <after discovering [Flight]>",
             "Can instantly construct a [Holy site] improvement <by consuming this unit> <if it hasn't used other actions yet>",
             "Can Spread Religion <for [2] movement> <[4] times> <after which this unit is consumed>",
 			"Removes other religions when spreading religion",
