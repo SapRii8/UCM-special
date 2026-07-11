@@ -198,7 +198,6 @@
 	  "requiredBuilding": "Market",
 	  "requiredTech": "Banking",
 	  "uniques": [
-		  "Allied City-States provide [Production] equal to [10]% of what they produce for themselves <in this city>",
 		  "[+5]% [Production] from City-States", 
 		  "[+1 Gold] from each Trade Route",
 		  "Only available <in cities with a [Palace]>",
