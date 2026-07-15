@@ -19,7 +19,7 @@
 	  "requiredTech": "Military Science",
 	  "uniques": [
 		  "New [Military] units start with [150] XP [in this city]",
-		  "Only available <in cities with a [Palace]>",
+		  "Only available <in cities with a [Palace Special]>",
 		  "Destroyed when the city is captured"]
   },
   {
@@ -30,7 +30,7 @@
 	  "hurryCostModifier": 40,
 	  "maintenance": 1,
 	  "uniques": [
-		  "Only available <in cities with a [Palace]>",
+		  "Only available <in cities with a [Palace Special]>",
 		  "Destroyed when the city is captured"]
   },
   {
@@ -41,7 +41,7 @@
 	  "maintenance": 1,
 	  "requiredTech": "Pottery",
 	  "uniques": [
-		  "Only available <in cities with a [Palace]>",
+		  "Only available <in cities with a [Palace Special]>",
 		  "Destroyed when the city is captured"]
   },
   {
@@ -51,7 +51,7 @@
 	  "requiredTech": "Writing",
 	  "uniques": [
 		  "[+1 Science] per [2] population [in this city]",
-		  "Only available <in cities with a [Palace]>",
+		  "Only available <in cities with a [Palace Special]>",
 		  "Destroyed when the city is captured"]
   },
   {
@@ -65,7 +65,7 @@
 	  "uniques": [
 		  "[+2 Food] from [Lakes] tiles [in this city]",
 		  "Must be next to [Fresh water]",
-		  "Only available <in cities with a [Palace]>",
+		  "Only available <in cities with a [Palace Special]>",
 		  "Destroyed when the city is captured"]
   },
   {
@@ -76,7 +76,7 @@
 	  "hurryCostModifier": 25,
 	  "requiredTech": "Masonry",
 	  "uniques": [
-		  "Only available <in cities with a [Palace]>",
+		  "Only available <in cities with a [Palace Special]>",
 		  "Destroyed when the city is captured"]
   },
   {
@@ -88,7 +88,7 @@
 		  "[-25]% Culture cost of natural border growth [in this city]",
 		  "[-25]% Gold cost of acquiring tiles [in this city]",
 		  "New [Military] units start with [15] XP [in this city]",
-		  "Only available <in cities with a [Palace]>",
+		  "Only available <in cities with a [Palace Special]>",
 		  "Destroyed when the city is captured"]
   },
   {
@@ -101,7 +101,7 @@
 	  "requiredTech": "Philosophy",
 	  "uniques": [
 		  "[+100]% Gold given to enemy if city is captured <in this city>",
-		  "Only available <in cities with a [Palace]>",
+		  "Only available <in cities with a [Palace Special]>",
 		  "Destroyed when the city is captured"]
   },
   {
@@ -113,7 +113,7 @@
 	  "requiredBuilding": "Shrine",
 	  "requiredTech": "Philosophy",
 	  "uniques": [
-		  "Only available <in cities with a [Palace]>",
+		  "Only available <in cities with a [Palace Special]>",
 		  "Destroyed when the city is captured"]
   },
   {
@@ -127,7 +127,7 @@
 		  "Provides 1 extra copy of each improved luxury resource near this City",
 		  "[+2 Gold] from [Oil] tiles [in this city]",
 		  "[+2 Gold] from [Oasis] tiles [in this city]",
-		  "Only available <in cities with a [Palace]>",
+		  "Only available <in cities with a [Palace Special]>",
 		  "Destroyed when the city is captured"]
   },
   {
@@ -140,7 +140,7 @@
 	  "requiredTech": "Metal Casting",
 	  "uniques": [
 		  "[+1 Production] from [Forest] tiles [in this city]",
-		  "Only available <in cities with a [Palace]>",
+		  "Only available <in cities with a [Palace Special]>",
 		  "Destroyed when the city is captured"]
   },
   {
@@ -154,7 +154,7 @@
 	  "requiredTech": "Education",
 	  "uniques": [
 		  "[+2 Science] from [Jungle] tiles [in this city]",
-		  "Only available <in cities with a [Palace]>",
+		  "Only available <in cities with a [Palace Special]>",
 		  "Destroyed when the city is captured"]
   },
   {
@@ -168,7 +168,7 @@
 	  "requiredTech": "Chivalry",
 	  "uniques": [
 		  "[+1 Gold] [in this city] <after discovering [Flight]>",
-		  "Only available <in cities with a [Palace]>",
+		  "Only available <in cities with a [Palace Special]>",
 		  "Destroyed when the city is captured"]
   },
   {
@@ -181,7 +181,7 @@
 	  "requiredBuilding": "Amphitheater",
 	  "requiredTech": "Acoustics",
 	  "uniques": [
-		  "Only available <in cities with a [Palace]>",
+		  "Only available <in cities with a [Palace Special]>",
 		  "Destroyed when the city is captured"]
   },
   {
@@ -194,7 +194,7 @@
 	  "requiredBuilding": "Market",
 	  "requiredTech": "Banking",
 	  "uniques": [
-		  "Only available <in cities with a [Palace]>",
+		  "Only available <in cities with a [Palace Special]>",
 		  "Destroyed when the city is captured"]
   },
   {
@@ -208,7 +208,7 @@
 	  "uniques": [
 		  "[+5]% [Production] from City-States", 
 		  "[+1 Gold] from each Trade Route",
-		  "Only available <in cities with a [Palace]>",
+		  "Only available <in cities with a [Palace Special]>",
 		  "Destroyed when the city is captured"]
   },
   {
@@ -221,7 +221,7 @@
 	  "requiredTech": "Economics",
 	  "uniques": [
 		  "[+25]% Great Person generation [in this city]",
-		  "Only available <in cities with a [Palace]>",
+		  "Only available <in cities with a [Palace Special]>",
 		  "Destroyed when the city is captured"]
   }
 ]
