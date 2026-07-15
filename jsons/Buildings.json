@@ -10,7 +10,7 @@
 		"faith": 1,
 		"cost": 0,
 		"uniques": [
-			"May buy [Cathedral Monastery Mosque Pagoda] buildings with [Gold] [in all non-occupied cities]",
+			"May buy [{Cathedral}, {Monastery}, {Mosque}, {Pagoda}] buildings with [Gold] [in all non-occupied cities]",
 			"Only available <in cities with a [Palace]>",
 			"Destroyed when the city is captured"]
 	},
