@@ -7,9 +7,11 @@
 		"production": 3,
 		"gold": 3,
 		"science": 3,
+		"faith": 1,
 		"cost": 0,
 		"uniques": [
-			"Indicates the capital city"]
+			"Only available <in cities with a [Palace]>",
+			"Destroyed when the city is captured"]
 	},
   {
 	  "name": "Military Academy Special",
