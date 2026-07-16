@@ -8,12 +8,12 @@
 		"gold": 3,
 		"science": 3,
 		"faith": 1,
-		"cost": 0,
+		"cost": 2,
 		"uniques": [
-			"May buy [Cathedral] buildings with [Gold] [in non-occupied cities] <in your cities> <hidden from users>",
-			"May buy [Monastery] buildings with [Gold] [in non-occupied cities] <in your cities> <hidden from users>",
-			"May buy [Mosque] buildings with [Gold] [in non-occupied cities] <in your cities> <hidden from users>",
-			"May buy [Pagoda] buildings with [Gold] [in non-occupied cities] <in your cities> <hidden from users>",
+			"May buy [Cathedral] buildings with [Gold] [in all non-occupied {Your} cities] <hidden from users>",
+			"May buy [Monastery] buildings with [Gold] [in {Your} all non-occupied cities] <hidden from users>",
+			"May buy [Mosque] buildings with [Gold] [in all non-occupied cities] <hidden from users>",
+			"May buy [Pagoda] buildings with [Gold] [in all non-occupied cities] <in your cities> <hidden from users>",
 			"Only available <in cities with a [Palace]>",
 			"Destroyed when the city is captured"]
 	},
