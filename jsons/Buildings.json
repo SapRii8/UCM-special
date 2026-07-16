@@ -11,7 +11,8 @@
 		"faith": 1,
 		"cost": 0,
 		"uniques": [
-			"May buy [Cathedral] buildings with [Gold] [in all non-occupied cities]",
+			"Gain a free [Pantheon] belief <when religion is disabled>",
+			"May buy [Cathedral] buildings with [Gold] [in all non-occupied cities] <hidden from users>",
 			"Only available <in cities with a [Palace]>",
 			"Destroyed when the city is captured"]
 	},
