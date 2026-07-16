@@ -10,7 +10,7 @@
 		"faith": 1,
 		"cost": 0,
 		"uniques": [
-			"Gain a free [Pantheon] belief <when religion is disabled>",
+			"Adopt [Faith Healers] <when religion is disabled>",
 			"May buy [Cathedral] buildings with [Gold] <in [{Your} {Non-occupied}] cities> <hidden from users>",
 			"May buy [Monastery] buildings with [Gold] <in [{Your} {Non-occupied}] cities> <hidden from users>",
 			"May buy [Mosque] buildings with [Gold] <in [{Your} {Non-occupied}] cities> <hidden from users>",
