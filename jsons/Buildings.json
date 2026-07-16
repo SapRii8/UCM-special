@@ -10,11 +10,10 @@
 		"faith": 1,
 		"cost": 0,
 		"uniques": [
-			"Adopt [Faith Healers] <when religion is disabled>",
-			"May buy [Cathedral] buildings with [Gold] [in [{Your} {Non-occupied}] cities] <hidden from users>",
-			"May buy [Monastery] buildings with [Gold] [in [{Your} {Non-occupied}] cities] <hidden from users>",
-			"May buy [Mosque] buildings with [Gold] [in [{Your} {Non-occupied}] cities] <hidden from users>",
-			"May buy [Pagoda] buildings with [Gold] [in [{Your} {Non-occupied}] cities] <hidden from users>",
+			"May buy [Cathedral] buildings with [Gold] [in non-occupied cities] <in your cities> <hidden from users>",
+			"May buy [Monastery] buildings with [Gold] [in non-occupied cities] <in your cities> <hidden from users>",
+			"May buy [Mosque] buildings with [Gold] [in non-occupied cities] <in your cities> <hidden from users>",
+			"May buy [Pagoda] buildings with [Gold] [in non-occupied cities] <in your cities> <hidden from users>",
 			"Only available <in cities with a [Palace]>",
 			"Destroyed when the city is captured"]
 	},
