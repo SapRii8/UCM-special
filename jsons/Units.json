@@ -66,6 +66,21 @@
 		"religiousStrength": 1000
 	},
 	{
+		"name": "Khan",
+		"unitType": "Civilian",
+		"uniques": [
+			"May Paradrop to [{your} {City center}] tiles up to [25] tiles away <in [City center] tiles>",
+			"[+15]% Strength bonus for [{Military} {Land}] units within [2] tiles",
+            "[+15]% Strength bonus for [{Military} {Air}] units within [2] tiles",
+			"All adjacent units heal [+15] HP when healing", "[+15] HP when healing",
+            "Can instantly construct a [Citadel] improvement <by consuming this unit>",
+			"Can be earned through combat <for [Land] units>",
+            "Is part of Great Person group [General]",
+            "[This Unit] gets a name from the [Khan] group",
+            "Great Person - [War]", "Unbuildable", "Uncapturable"],
+		"movement": 5
+	},
+	{
 		"name": "Great General",
 		"unitType": "Civilian",
 		"uniques": [
