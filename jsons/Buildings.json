@@ -1,4 +1,3 @@
-#MonasteryMosquePagoda
 [
 	{
 		"name": "Palace Special",
@@ -13,6 +12,9 @@
 		"uniques": [
 			"Gain a free [Pantheon] belief <when religion is disabled>",
 			"May buy [Cathedral] buildings with [Gold] [in all non-occupied cities] <hidden from users>",
+			"May buy [Monastery] buildings with [Gold] [in all non-occupied cities] <hidden from users>",
+			"May buy [Mosque] buildings with [Gold] [in all non-occupied cities] <hidden from users>",
+			"May buy [Pagoda] buildings with [Gold] [in all non-occupied cities] <hidden from users>",
 			"Only available <in cities with a [Palace]>",
 			"Destroyed when the city is captured"]
 	},
