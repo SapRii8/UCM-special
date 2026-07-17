@@ -9,6 +9,7 @@
 		"science": 3,
 		"cost": 8,
 		"uniques": [
+			"[+1 Faith] [in this city] <when religion is enabled>",
 			"May buy [Cathedral] buildings for [200] [Gold] [in all non-occupied cities] <hidden from users>",
 			"May buy [Monastery] buildings for [200] [Gold] [in all non-occupied cities] <hidden from users>",
 			"May buy [Mosque] buildings for [200] [Gold] [in all non-occupied cities] <hidden from users>",
