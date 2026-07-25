@@ -1,5 +1,15 @@
 [
 	{
+		"name": "Inquisition Special",
+		"unitType": "Missile",
+		"movement": 1,
+		"cost": 8,
+		"uniques": [
+			"[+800]% maintenance costs",
+			"Only available <when religion is enabled>",
+			"Prevents spreading of religion to the city it is next to"]
+	},
+	{
 		"name": "Great Artist",
 		"unitType": "Civilian",
 		"uniques": [
