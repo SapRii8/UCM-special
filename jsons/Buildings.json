@@ -208,20 +208,6 @@
 		  "Destroyed when the city is captured"]
   },
   {
-	  "name": "Hanse Special",
-	  "gold": 2,
-	  "percentStatBonus": {"gold": 25},
-	  "specialistSlots": {"Merchant": 1},
-	  "hurryCostModifier": 15,
-	  "requiredBuilding": "Market",
-	  "requiredTech": "Banking",
-	  "uniques": [
-		  "[+5]% [Production] from City-States", 
-		  "[+1 Gold] from each Trade Route",
-		  "Only available <in cities with a [Palace Special]>",
-		  "Destroyed when the city is captured"]
-  },
-  {
 	  "name": "Coffee House Special",
 	  "production": 2,
 	  "percentStatBonus": {"production": 5},
@@ -235,53 +221,53 @@
 		  "Destroyed when the city is captured"]
   },
 
-	// Religious buildings
+// Religious buildings
 
-	{
-		"name": "Cathedral",
-		"happiness": 1,
-		"culture": 3,
-		"faith": 1,
-		"specialistSlots": {"Artist": 1},
-		"cost": 0,
-		"uniques": ["Unbuildable", "Destroyed when the city is captured"]
-	},
-	{
-		"name": "Monastery",
-		"culture": 2,
-		"faith": 2,
-		"cost": 0,
-		"uniques": [
-			"[+1 Culture, +1 Faith] from [Wine] tiles [in this city]",
-			"[+1 Culture, +1 Faith] from [Incense] tiles [in this city]",
-			"Unbuildable", "Destroyed when the city is captured"]
-	},
-	{
-		"name": "Mosque",
-		"happiness": 1,
-		"culture": 2,
-		"faith": 3,
-		"cost": 0,
-		"uniques": [
-			"Unbuildable", "Destroyed when the city is captured"]
-	},
-	{
-		"name": "Pagoda",
-		"happiness": 2,
-		"culture": 2,
-		"faith": 2,
-		"cost": 0,
-		"uniques": [
-			"Unbuildable", "Destroyed when the city is captured"]
-	},
+{
+"name": "Cathedral",
+"happiness": 1,
+"culture": 3,
+"faith": 1,
+"specialistSlots": {"Artist": 1},
+"cost": 0,
+"uniques": [
+"Unbuildable", "Destroyed when the city is captured"]
+},
+{
+"name": "Monastery",
+"culture": 2,
+"faith": 2,
+"cost": 0,
+"uniques": [
+"[+1 Culture, +1 Faith] from [Wine] tiles [in this city]",
+"[+1 Culture, +1 Faith] from [Incense] tiles [in this city]",
+"Unbuildable", "Destroyed when the city is captured"]
+},
+{
+"name": "Mosque",
+"happiness": 1,
+"culture": 2,
+"faith": 3,
+"cost": 0,
+"uniques": [
+"Unbuildable", "Destroyed when the city is captured"]
+},
+{
+"name": "Pagoda",
+"happiness": 2,
+"culture": 2,
+"faith": 2,
+"cost": 0,
+"uniques": [
+"Unbuildable", "Destroyed when the city is captured"]
+},
 
 //Modification
 
-
 {
 "name": "Biofuel Farm",
-"maintenance": 3,
 "hurryCostModifier": 25,
+"maintenance": 3,
 "uniques": [
 "Provides [1] [Coal]",
 "Provides [1] [Oil]",
@@ -292,8 +278,8 @@
 },
 {
 "name": "Ore Refinery",
-"maintenance": 3,
 "hurryCostModifier": 25,
+"maintenance": 3,
 "uniques": [
 "Provides [1] [Aluminum]",
 "Provides [1] [Uranium]",
