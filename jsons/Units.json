@@ -1,122 +1,122 @@
 [
-	{
-		"name": "Inquisition Special",
-		"unitType": "Missile",
-		"movement": 1,
-		"cost": 8,
-		"uniques": [
-			"[+800]% maintenance costs",
-			"Only available <when religion is enabled>",
-			"Prevents spreading of religion to the city it is next to"]
-	},
-	{
-		"name": "Great Artist",
-		"unitType": "Civilian",
-		"uniques": [
-			"May Paradrop to [{your} {City center}] tiles up to [25] tiles away <in [City center] tiles> <after discovering [Flight]>",
-            "Empire enters a [8]-turn Golden Age <by consuming this unit>",
-            "Can instantly construct a [Landmark] improvement <by consuming this unit>",
-            "Is part of Great Person group [Artist]",
-            "[This Unit] gets a name from the [Artist] group",
-            "Great Person - [Culture]", "Unbuildable", "Uncapturable"],
-		"movement": 4
-	},
-	{
-		"name": "Great Engineer",
-		"unitType": "Civilian",
-		"uniques": [
-			"May Paradrop to [{your} {City center}] tiles up to [25] tiles away <in [City center] tiles> <after discovering [Flight]>",
-			"Can speed up construction of a building",
-            "Can instantly construct a [Manufactory] improvement <by consuming this unit>",
-            "Is part of Great Person group [Engineer]",
-            "[This Unit] gets a name from the [Engineer] group",
-            "Great Person - [Production]", "Unbuildable", "Uncapturable"],
-		"movement": 4
-	},
-	{
-		"name": "Great Merchant",
-		"unitType": "Civilian",
-		"uniques": [
-			"May Paradrop to [{your} {City center}] tiles up to [25] tiles away <in [City center] tiles> <after discovering [Flight]>",
-			"Can undertake a trade mission with City-State, giving a large sum of gold and [30] Influence",
-            "Can instantly construct a [Customs house] improvement <by consuming this unit>",
-            "Is part of Great Person group [Merchant]",
-            "[This Unit] gets a name from the [Merchant] group",
-			"Great Person - [Gold]", "Unbuildable", "Uncapturable"],
-		"movement": 4
-	},
-	{
-		"name": "Great Scientist",
-		"unitType": "Civilian",
-		"uniques": [
-			"May Paradrop to [{your} {City center}] tiles up to [25] tiles away <in [City center] tiles> <after discovering [Flight]>",
-            "Can hurry technology research",
-            "Can instantly construct a [Academy] improvement <by consuming this unit>",
-            "Is part of Great Person group [Scientist]",
-            "[This Unit] gets a name from the [Scientist] group",
-            "Great Person - [Science]", "Unbuildable", "Uncapturable"],
-		"movement": 4
-	},
-	{
-		"name": "Great Prophet",
-		"unitType": "Civilian",
-		"uniques": [
-			"May Paradrop to [{your} {City center}] tiles up to [25] tiles away <in [City center] tiles> <after discovering [Flight]>",
-            "Can instantly construct a [Holy site] improvement <by consuming this unit> <if it hasn't used other actions yet>",
-            "Can Spread Religion <for [2] movement> <[4] times> <after which this unit is consumed>",
-			"Removes other religions when spreading religion",
-            "May found a religion <by consuming this unit> <if it hasn't used other actions yet>",
-            "May enhance a religion <by consuming this unit>  <if it hasn't used other actions yet>",
-            "Is part of Great Person group [Prophet]",
-            "[This Unit] gets a name from the [Prophet] group",
-			"May enter foreign tiles without open borders", "[-1] Sight",
-			"Great Person - [Faith]", "Unbuildable", "Religious Unit", "Only available <when religion is enabled>",
-			"Takes your religion over the one in their birth city"],
-		"movement": 4,
-		"religiousStrength": 1000
-	},
-	{
-		"name": "Khan",
-		"unitType": "Civilian",
-		"uniques": [
-			"May Paradrop to [{your} {City center}] tiles up to [25] tiles away <in [City center] tiles>",
-			"[+15]% Strength bonus for [{Military} {Land}] units within [2] tiles",
-            "[+15]% Strength bonus for [{Military} {Air}] units within [2] tiles",
-			"All adjacent units heal [+15] HP when healing", "[+15] HP when healing",
-            "Can instantly construct a [Citadel] improvement <by consuming this unit>",
-			"Can be earned through combat <for [Land] units>",
-            "Is part of Great Person group [General]",
-            "[This Unit] gets a name from the [Khan] group",
-            "Great Person - [War]", "Unbuildable", "Uncapturable"],
-		"movement": 5
-	},
-	{
-		"name": "Great General",
-		"unitType": "Civilian",
-		"uniques": [
-			"May Paradrop to [{your} {City center}] tiles up to [25] tiles away <in [City center] tiles>",
-			"Empire enters a [8]-turn Golden Age <by consuming this unit>",
-			"[+15]% Strength bonus for [{Military} {Land}] units within [2] tiles",
-			"[+15]% Strength bonus for [{Military} {Air}] units within [2] tiles",
-			"Can instantly construct a [Citadel] improvement <by consuming this unit>",
-			"Can be earned through combat <for [Land] units>",
-			"Is part of Great Person group [General]",
-			"[This Unit] gets a name from the [General] group",
-			"Great Person - [War]", "Unbuildable", "Uncapturable"],
-		"movement": 4
-	},
-	{
-		"name": "Great Admiral",
-		"unitType": "Civilian Water",
-		"uniques": [
-			"May Paradrop to [{your} {Coastal} {City center}] tiles up to [25] tiles away <in [City center] tiles>",
-			"Empire enters a [8]-turn Golden Age <by consuming this unit>",
-			"[+15]% Strength bonus for [{Military} {Water}] units within [2] tiles",
-			"[+15]% Strength bonus for [{Military} {Air}] units within [2] tiles",
-			"Can be earned through combat <for [Water] units>",
-			"Is part of Great Person group [Admiral]",
-			"[This Unit] gets a name from the [Admiral] group",
-			"Great Person - [War]", "Unbuildable", "Uncapturable"],
-		"movement": 6
-  }
+{
+"name": "Inquisition Special",
+"unitType": "Missile",
+"movement": 1,
+"cost": 8,
+"uniques": [
+ "[+800]% maintenance costs",
+ "Only available <when religion is enabled>",
+ "Prevents spreading of religion to the city it is next to"]
+},
+{
+"name": "Great Artist",
+"unitType": "Civilian",
+"uniques": [
+ "May Paradrop to [{your} {City center}] tiles up to [25] tiles away <in [City center] tiles> <after discovering [Flight]>",
+ "Empire enters a [8]-turn Golden Age <by consuming this unit>",
+ "Can instantly construct a [Landmark] improvement <by consuming this unit>",
+ "Is part of Great Person group [Artist]",
+ "[This Unit] gets a name from the [Artist] group",
+ "Great Person - [Culture]", "Unbuildable", "Uncapturable"],
+"movement": 4
+},
+{
+"name": "Great Engineer",
+"unitType": "Civilian",
+"uniques": [
+ "May Paradrop to [{your} {City center}] tiles up to [25] tiles away <in [City center] tiles> <after discovering [Flight]>",
+ "Can speed up construction of a building",
+ "Can instantly construct a [Manufactory] improvement <by consuming this unit>",
+ "Is part of Great Person group [Engineer]",
+ "[This Unit] gets a name from the [Engineer] group",
+ "Great Person - [Production]", "Unbuildable", "Uncapturable"],
+"movement": 4
+},
+{
+"name": "Great Merchant",
+"unitType": "Civilian",
+"uniques": [
+ "May Paradrop to [{your} {City center}] tiles up to [25] tiles away <in [City center] tiles> <after discovering [Flight]>",
+ "Can undertake a trade mission with City-State, giving a large sum of gold and [30] Influence",
+ "Can instantly construct a [Customs house] improvement <by consuming this unit>",
+ "Is part of Great Person group [Merchant]",
+ "[This Unit] gets a name from the [Merchant] group",
+ "Great Person - [Gold]", "Unbuildable", "Uncapturable"],
+"movement": 4
+},
+{
+"name": "Great Scientist",
+"unitType": "Civilian",
+"uniques": [
+ "May Paradrop to [{your} {City center}] tiles up to [25] tiles away <in [City center] tiles> <after discovering [Flight]>",
+ "Can hurry technology research",
+ "Can instantly construct a [Academy] improvement <by consuming this unit>",
+ "Is part of Great Person group [Scientist]",
+ "[This Unit] gets a name from the [Scientist] group",
+ "Great Person - [Science]", "Unbuildable", "Uncapturable"],
+"movement": 4
+},
+{
+"name": "Great Prophet",
+"unitType": "Civilian",
+"uniques": [
+ "May Paradrop to [{your} {City center}] tiles up to [25] tiles away <in [City center] tiles> <after discovering [Flight]>",
+ "Can instantly construct a [Holy site] improvement <by consuming this unit> <if it hasn't used other actions yet>",
+ "Can Spread Religion <for [2] movement> <[4] times> <after which this unit is consumed>",
+ "Removes other religions when spreading religion",
+ "May found a religion <by consuming this unit> <if it hasn't used other actions yet>",
+ "May enhance a religion <by consuming this unit>  <if it hasn't used other actions yet>",
+ "Is part of Great Person group [Prophet]",
+ "[This Unit] gets a name from the [Prophet] group",
+ "May enter foreign tiles without open borders", "[-1] Sight",
+ "Great Person - [Faith]", "Unbuildable", "Religious Unit", "Only available <when religion is enabled>",
+ "Takes your religion over the one in their birth city"],
+"movement": 4,
+"religiousStrength": 1000
+},
+{
+"name": "Khan",
+"unitType": "Civilian",
+"uniques": [
+ "May Paradrop to [{your} {City center}] tiles up to [25] tiles away <in [City center] tiles>",
+ "[+15]% Strength bonus for [{Military} {Land}] units within [2] tiles",
+ "[+15]% Strength bonus for [{Military} {Air}] units within [2] tiles",
+ "All adjacent units heal [+15] HP when healing", "[+15] HP when healing",
+ "Can instantly construct a [Citadel] improvement <by consuming this unit>",
+ "Can be earned through combat <for [Land] units>",
+ "Is part of Great Person group [General]",
+ "[This Unit] gets a name from the [Khan] group",
+ "Great Person - [War]", "Unbuildable", "Uncapturable"],
+"movement": 5
+},
+{
+"name": "Great General",
+"unitType": "Civilian",
+"uniques": [
+ "May Paradrop to [{your} {City center}] tiles up to [25] tiles away <in [City center] tiles>",
+ "Empire enters a [8]-turn Golden Age <by consuming this unit>",
+ "[+15]% Strength bonus for [{Military} {Land}] units within [2] tiles",
+ "[+15]% Strength bonus for [{Military} {Air}] units within [2] tiles",
+ "Can instantly construct a [Citadel] improvement <by consuming this unit>",
+ "Can be earned through combat <for [Land] units>",
+ "Is part of Great Person group [General]",
+ "[This Unit] gets a name from the [General] group",
+ "Great Person - [War]", "Unbuildable", "Uncapturable"],
+"movement": 4
+},
+{
+"name": "Great Admiral",
+"unitType": "Civilian Water",
+"uniques": [
+ "May Paradrop to [{your} {Coastal} {City center}] tiles up to [25] tiles away <in [City center] tiles>",
+ "Empire enters a [8]-turn Golden Age <by consuming this unit>",
+ "[+15]% Strength bonus for [{Military} {Water}] units within [2] tiles",
+ "[+15]% Strength bonus for [{Military} {Air}] units within [2] tiles",
+ "Can be earned through combat <for [Water] units>",
+ "Is part of Great Person group [Admiral]",
+ "[This Unit] gets a name from the [Admiral] group",
+ "Great Person - [War]", "Unbuildable", "Uncapturable"],
+"movement": 6
+ }
 ]
