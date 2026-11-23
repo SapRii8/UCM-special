@@ -29,6 +29,17 @@
  "Only available <in cities with a [Palace Special]>",
  "Destroyed when the city is captured"]
 },
+{
+"name": "Inquisition Special",
+"cityStrength": 8,
+"cost": 8,
+"maintenance": 8,
+"uniques": [
+ "Prevents spreading of religion to the city it is next to",
+ "Only available <when religion is enabled>",
+ "Only available <in cities with a [Palace Special]>",
+ "Destroyed when the city is captured"]
+},
 
 // Uniques buildings
 	
