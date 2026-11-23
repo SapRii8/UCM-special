@@ -1,8 +1,8 @@
 {
-	"name": "Special PE",
-	"uniques": [
-		"[+150]% Golden Age length",
-		"Empire enters golden age <before turn number [1]>",
-		"[1] Unit Supply <for every [[Missile] Units]>",
-		"[Helicopter] units gain the [FlyHover] promotion"]
+"name": "Special PE",
+"uniques": [
+ "[+150]% Golden Age length",
+ "Empire enters golden age <before turn number [1]>",
+ "[1] Unit Supply <for every [[Missile] Units]>",
+ "[Helicopter] units gain the [FlyHover] promotion"]
 }
