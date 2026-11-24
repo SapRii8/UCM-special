@@ -5,6 +5,7 @@
  "Prevents spreading of religion to the city it is next to",
 "unitTypes": [{"Civilian"}, {"Military"}]
 },
+{
 "name": "FlyHover",
 "uniques": [
  "Can pass through impassable tiles",
