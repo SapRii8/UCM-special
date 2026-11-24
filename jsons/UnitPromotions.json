@@ -3,7 +3,7 @@
 "name": "Ideology",
 "uniques": [
  "Prevents spreading of religion to the city it is next to"],
-"unitTypes": ["Civilian","Military"]
+"unitTypes": ["Civilian","Civilian Water"]
 },
 {
 "name": "FlyHover",
