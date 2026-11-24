@@ -32,7 +32,7 @@
 {
 "name": "Inquisition Special",
 "cityStrength": 8,
-"cost": 8,
+"cost": 1,
 "maintenance": 8,
 "uniques": [
  "All newly-trained [Great Admiral] units [in this city] receive the [Ideology] promotion",
