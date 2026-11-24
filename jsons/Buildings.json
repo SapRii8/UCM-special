@@ -35,7 +35,9 @@
 "cost": 8,
 "maintenance": 8,
 "uniques": [
- "Prevents spreading of religion to the city it is next to",
+ "All newly-trained [Great Admiral] units [in this city] receive the [Ideology] promotion",
+ "All newly-trained [Great General] units [in this city] receive the [Ideology] promotion",
+ "All newly-trained [Khan] units [in this city] receive the [Ideology] promotion",
  "Only available <when religion is enabled>",
  "Only available <in cities with a [Palace Special]>",
  "Destroyed when the city is captured"]
