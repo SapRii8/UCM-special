@@ -35,9 +35,9 @@
 "cost": 8,
 "maintenance": 1,
 "uniques": [
- "All newly-trained [Great Admiral] units [in this city] receive the [Ideology] promotion <hidden from users>",
- "All newly-trained [Great General] units [in this city] receive the [Ideology] promotion <hidden from users>",
- "All newly-trained [Khan] units [in this city] receive the [Ideology] promotion <hidden from users>",
+ "All newly-trained [Great Admiral] units [in your city] receive the [Ideology] promotion <hidden from users>",
+ "All newly-trained [Great General] units [in your city] receive the [Ideology] promotion <hidden from users>",
+ "All newly-trained [Khan] units [in your city] receive the [Ideology] promotion <hidden from users>",
  "Only available <when religion is enabled>",
  "Only available <in cities with a [Palace Special]>",
  "Destroyed when the city is captured"]
